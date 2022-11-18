@@ -130,3 +130,6 @@ dmypy.json
 
 # sqlite data file
 *.db
+
+# creds
+creds.txt
